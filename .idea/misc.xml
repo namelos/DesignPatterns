@@ -118,7 +118,4 @@
   <component name="ScalaSbtSettings">
     <option name="vmParameters" value="-XX:MaxPermSize=384M -Dhttps.proxyHost=127.0.0.1  -Dhttps.proxyPort=2080" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
-  </component>
 </project>
