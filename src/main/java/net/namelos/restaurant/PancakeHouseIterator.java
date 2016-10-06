@@ -1,6 +1,7 @@
 package net.namelos.restaurant;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class PancakeHouseIterator implements Iterator {
     ArrayList items;
